@@ -35,6 +35,7 @@ body {
 }
 .ecos-card-state {
   font-size: 10px;
+  float:right;
 }
 
 .ecos-card-priority {
