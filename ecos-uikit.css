@@ -10,3 +10,19 @@ body {
     background-color: #eee;
     border: 1px #bbb solid;
 }
+
+.ecos-card {
+  width: 200;
+}
+
+.ecos-card-title {
+  font-size: 12px;
+}
+
+.ecos-card-summary {
+  font-size: 12px;
+}
+
+.ecos-card-state {
+  font-size: 10px;
+}
