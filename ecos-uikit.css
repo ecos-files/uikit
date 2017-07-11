@@ -32,6 +32,7 @@ body {
 
 .ecos-card-contact {
    color: green; 
+   float: right;
 }
 .ecos-card-state {
   font-size: 10px;
