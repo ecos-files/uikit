@@ -13,6 +13,7 @@ body {
 
 .ecos-card {
   width: 300;
+  padding: 8px;
 }
 
 .ecos-card-typeid {
