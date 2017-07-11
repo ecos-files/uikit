@@ -15,7 +15,11 @@ body {
   width: 200;
 }
 
-.ecos-card-title {
+.ecos-card-typeid {
+  font-size: 12px;
+}
+
+.ecos-card-ref {
   font-size: 12px;
 }
 
