@@ -10,8 +10,9 @@ body {
 
 .ecos-properties-div {
     float:right;
+    margin-top: 100px;
     width: 600;
-    background-color: beige;
+    background-color: #ccc;
     border: 1px #bbb solid;    
 }
 
