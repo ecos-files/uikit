@@ -6,9 +6,26 @@ body {
   padding: 15px 10px 10px 15px;
 }
 
-.help-div {
-    background-color: #eee;
-    border: 1px #bbb solid;
+
+
+.ecos-properties-div {
+    float:right;
+    width: 600;
+    background-color: beige;
+    border: 1px #bbb solid;    
+}
+
+.ecos-pop-up-div {
+    position: absolute;
+    top: 100;
+    right: 10;
+    width: 600;
+    background-color: beige;
+    border: 1px #bbb solid;    
+}
+
+.ecos-content-div {
+   margin-right: 700px;
 }
 
 .ecos-card {
