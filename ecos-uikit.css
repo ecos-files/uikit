@@ -13,9 +13,12 @@ a {
 .ecos-properties-div {
     float:right;
     margin-top: 100px;
-    width: 600;
-    background-color: #ccc;
+    width: 425px;
     border: 1px #bbb solid;    
+}
+
+.ecos-help-div {
+     background-color: #ccc; 
 }
 
 .ecos-pop-up-div {
@@ -28,7 +31,7 @@ a {
 }
 
 .ecos-content-div {
-   margin-right: 700px;
+   padding-right: 500px;
 }
 
 .ecos-card {
