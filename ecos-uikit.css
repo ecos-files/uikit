@@ -41,8 +41,7 @@ a {
 }
 
 .ecos-card-typeid {
-  margin-top: 10px;
-  font-size: 10px;
+  font-size: 10pt !important;
 }
 
 .ecos-card-ref {
@@ -51,7 +50,7 @@ a {
 }
 
 .ecos-card-summary {
-  font-size: 10px;
+  font-size: 10pt !important;
 }
 
 .ecos-card-contact {
