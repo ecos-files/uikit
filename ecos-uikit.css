@@ -34,6 +34,10 @@ a {
    padding-right: 340px;
 }
 
+.ecos-report-div {
+   width: 95%;
+}
+
 .ecos-card {
   width: 300;
   margin-left: 8px;
@@ -46,7 +50,7 @@ a {
 
 .ecos-card-ref {
   color: green;
-  font-size: 10px;
+  font-size: 10pt;
 }
 
 .ecos-card-summary {
