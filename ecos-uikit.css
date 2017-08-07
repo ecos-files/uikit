@@ -42,32 +42,32 @@ a {
 
 .ecos-card-typeid {
   margin-top: 10px;
-  font-size: 10pt;
+  font-size: 10px;
 }
 
 .ecos-card-ref {
   color: green;
-  font-size: 10pt;
+  font-size: 10px;
 }
 
 .ecos-card-summary {
-  font-size: 10pt;
+  font-size: 10px;
 }
 
 .ecos-card-contact {
    color: green; 
    float: right;
-  font-size: 10pt;
+  font-size: 10px;
 }
 .ecos-card-state {
-  font-size: 10pt;
+  font-size: 10px;
   float:left;
 }
 
 .ecos-card-priority {
-  font-size: 10pt;
+  font-size: 10px;
 }
 
 .ecos-card-tags {
-  font-size: 8pt;
+  font-size: 8px;
 }
