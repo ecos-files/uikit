@@ -41,16 +41,17 @@ a {
 }
 
 .ecos-card-typeid {
-  font-size: 12pt;
+  margin-top: 10px;
+  font-size: 10pt;
 }
 
 .ecos-card-ref {
   color: green;
-  font-size: 12pt;
+  font-size: 10pt;
 }
 
 .ecos-card-summary {
-  font-size: 12pt;
+  font-size: 10pt;
 }
 
 .ecos-card-contact {
@@ -60,7 +61,7 @@ a {
 }
 .ecos-card-state {
   font-size: 10pt;
-  float:right;
+  float:left;
 }
 
 .ecos-card-priority {
